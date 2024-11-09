@@ -11,11 +11,7 @@ db_schema:
       type: string
     server: full
     title: File
-dependencies:
-- config: {}
-  dep_id: dep_lin1x4oec0ytd
-  resolution_hints: {app_id: 4UK6WHQ6UX7AKELK, name: Material 3 Theme, package_name: m3}
-  version: {version_tag: v1.2.0}
+dependencies: []
 name: M3 App 7
 native_deps: null
 package_name: M3_App_7
