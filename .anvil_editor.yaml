@@ -3,7 +3,8 @@ unique_ids:
     theme.css: 6G44GIEQQRJLILWU6GQSQO5BTDFT5ZI3
   forms:
     Form1: '1731182004253401128143686.458'
-  modules: {}
+  modules:
+    Module1: '1731188817837166467043804.15155'
   scripts: {}
   server_modules:
     ServerModule1: '1731182515675779552670771.0345'
