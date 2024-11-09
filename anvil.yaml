@@ -1,4 +1,16 @@
 allow_embedding: false
+db_schema:
+  file:
+    client: full
+    columns:
+    - admin_ui: {order: 0, width: 200}
+      name: File
+      type: media
+    - admin_ui: {order: -1, width: 200}
+      name: Name
+      type: string
+    server: full
+    title: File
 dependencies:
 - config: {}
   dep_id: dep_lin1x4oec0ytd
@@ -16,3 +28,5 @@ services:
 - client_config: {}
   server_config: {}
   source: /runtime/services/tables.yml
+startup_form: Form1
+uplink_visible: true
